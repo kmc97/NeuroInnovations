@@ -1,0 +1,7 @@
+matplotlib
+xlrd
+pandas
+jupyter
+jupyterlab
+ipython
+numpy
